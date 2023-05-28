@@ -8,7 +8,7 @@ modules:
     properties:
       SBF_BROKER_CREDENTIALS_HASH:  >
         {
-          "broker-user": "<paste your hash credentials here>"
+          "broker-user": "sha256:rYZ/UI7WzjgVnSsnACC+gbCoQnV61rky0mtCUoUrbqg=:sB73u4XGnxnKd5thM4BJUkHEoR0+Q9ZdPSBXI5XFjH0="
         }
 
 resources:
